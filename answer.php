@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICD2O-Unit5-07-PHP -->
+<!-- ICD2O-Unit 5-07-PHP -->
 <html lang="en-ca">
 
 <head>
@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/sum.png" alt="Image of the formula for finding the sum of a numbers natural numbers" />
+        <img src="./images/sum.png" alt="Image of the formula for finding the sum of a number's natural numbers." />
       </div>
       <div class=" page-content-php">
         <div id="user-info">

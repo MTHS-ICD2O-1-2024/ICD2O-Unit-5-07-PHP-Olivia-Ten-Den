@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit5-07-HTML-PHP -->
+<!-- ICS2O-Unit 5-07-HTML-PHP -->
 <html lang="en-ca">
 
 <head>
@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/sum.png" alt="Image of the formula for finding the sum of a numbers natural numbers" />
+        <img src="./images/sum.png" alt="Image of the formula for finding the sum of a number's natural numbers." />
       </div>
       <div class="page-content">Please enter an integer you want used in this equation.</div>
       <br />
